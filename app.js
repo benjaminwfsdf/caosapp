@@ -1,0 +1,1 @@
+// Lógica para escanear QR y activar cartas
